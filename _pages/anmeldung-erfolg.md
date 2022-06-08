@@ -5,9 +5,9 @@ classes: wide
 permalink: /anmeldung-erfolg
 
 header:
-  overlay_filter: rgba(10, 255, 0, 0.5)
-  overlay_image: /images/splash/tim-mossholder-dBkw2Gk6u8E-unsplash.jpg
-  caption: "Photo: [**Tim Mossholdert**](https://unsplash.com/@timmossholder)"
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_image: /images/lifting-racks.jpg
+  caption: "Photo: [**George Pagan**](https://unsplash.com/photos/5Kfpn0m0OB4)"
 
 excerpt: "... das hat funktioniert"
 ---
@@ -20,6 +20,4 @@ Wir bearbeiten Anmeldungen _von Hand_ - es könnte also etwas dauern...
 (durchaus auch bis zum nächsten oder übernächsten Werktag - bitte habt daher Geduld mit uns.)
 
 Anmeldungen werden wir in der Reihenfolge ihres Eingangs bearbeiten - _first come, first serve_. 
-
-(Foto von [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon))
 
