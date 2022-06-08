@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Anmeldung"
+    url: /anmeldung
+  - title: "Über..."
+    url: /about
+
+
