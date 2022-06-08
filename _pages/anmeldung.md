@@ -7,9 +7,7 @@ permalink: /anmeldung
 botpoison: nospam
 
 header:
-  overlay_filter: rgba(15, 80, 180, 0.5)
-  overlay_image: /images/splash/anmeldung-yves-moret-3vSGseoQj40.jpg
-  caption: "Photo: [**Yves Moret**](https://unsplash.com/@yvesmoret)"
+  overlay_image: /images/anmeldung_header.png
 
 excerpt: "Wir freuen uns auf Dich!"
 ---
