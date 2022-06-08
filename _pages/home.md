@@ -2,13 +2,10 @@
 title: "PowerBase Squat Maxout"
 layout: splash
 permalink: /
-header: 
-  #overlay_color: "#d7ecf8"
-  #overlay_filter: rgba(15, 80, 180, 0.6)
-  #overlay_image: /images/splash/arc42-splash-landingpage.jpg
-  overlay_image: /images/splash/ukrainian-flag.jpg
+header:
+    overlay_image: /images/anmeldung_header.png
   
-excerpt: "Nur. Maximal. Squats."
+excerpt: Der erste SQUAT ONLY Wettkampf!
 
 
 
