@@ -1,5 +1,5 @@
 ---
-title: "Anmeldung"
+title: "Anmeldung zum Squat Maxout"
 layout: single
 classes: wide
 permalink: /anmeldung
@@ -9,8 +9,9 @@ botpoison: nospam
 header:
   overlay_image: /images/anmeldung_header.png
 
-excerpt: "Wir freuen uns auf Dich!"
+excerpt: "am 15. November 2022 in Köln.<br>Wir freuen uns auf Dich!"
 ---
+
 
 
 <noscript>
@@ -35,8 +36,6 @@ excerpt: "Wir freuen uns auf Dich!"
 
 <input type="text" id="vorname" name="Vorname" placeholder="* Vorname" size="20"  required/>
 <input type="text" id="nachname" name="Nachname" placeholder="* Nachname" size="20" required  />
-
-
 
 <label for="email">E-Mail (für Anmeldebestätigung und Ähnliches)</label>
 <input type="email" id="email" name="Email" placeholder="* E-Mail" required multiple  />
@@ -105,7 +104,7 @@ see https://documentation.formspark.io/customization/email.html#subject
 -->
 <input type="hidden" name="_email.subject" value="[squatmaxout] ANMELDUNG" />
 <input type="hidden" name="_email.from" value="Squatmaxout.PowerBase Website (via formspark.io)" />
-<input type="hidden" name="_email.template.title" value="Anmeldung (via arc42.de)" />
+<input type="hidden" name="_email.template.title" value="Anmeldung (via powerbase.app)" />
 
 
 </form>

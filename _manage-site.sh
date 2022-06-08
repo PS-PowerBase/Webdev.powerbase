@@ -2,11 +2,6 @@
 #
 # helper, so you don't need to remember docker-compose syntax...
 
-# what's the site?
-site="arc42.de"
-
-remotedir="."
-
 # some colors to highlight certain output
 GREEN=`tput setaf 2`
 RED=`tput setaf 5`
