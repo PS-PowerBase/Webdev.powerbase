@@ -11,20 +11,21 @@ excerpt: Der erste SQUAT ONLY Wettkampf!
 
 template_training_news:
   - title: "Termin / Location"
-    excerpt: "5. November 2022, Köln"
+    excerpt: "5. November 2022, Köln<br>Rheingym"
 
-  - title: "Anmeldung"
-    excerpt: "![](/images/home/training.png)<br>
-    Direkt anmelden:<br>
+  - title: " "
+    excerpt: "
     <a href='anmeldung'><button class='button buttonAnmeldung'>Anmeldung</button></a>"
   
    
     
   - title: "News"
-    excerpt: "![](/images/home/news.png)<br>
+    excerpt: "<ul>
     
-    * Location für das Battle gefunden.
- 
+    <li>Anfang Mai 2022: Location für das Battle gefunden.</li>
+    <li>Ende Mai 2022: Sponsoren gefunden.</li>
+
+ </ul>
     "
 
 ---

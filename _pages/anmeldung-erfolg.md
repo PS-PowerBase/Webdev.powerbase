@@ -12,7 +12,6 @@ header:
 excerpt: "... das hat funktioniert"
 ---
 
-![](/images/splash/sharon-mccutcheon-tn57JI3CewI-file-pile.jpg){: .align-right}
 ### Deine Anmeldung hat funktioniert, aber:
 
 Wir bearbeiten Anmeldungen _von Hand_ - es könnte also etwas dauern...
