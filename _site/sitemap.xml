@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://wettkampfanmeldung.powerbase.app/anmeldung-erfolg</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/pages/PS-PowerBase/Wettkampfanmeldung.powerbase/anmeldung-erfolg</loc>
 </url>
 <url>
-<loc>https://wettkampfanmeldung.powerbase.app/anmeldung-fail</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/pages/PS-PowerBase/Wettkampfanmeldung.powerbase/anmeldung-fail</loc>
 </url>
 <url>
-<loc>https://wettkampfanmeldung.powerbase.app/anmeldung</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/pages/PS-PowerBase/Wettkampfanmeldung.powerbase/anmeldung</loc>
 </url>
 <url>
-<loc>https://wettkampfanmeldung.powerbase.app/</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/pages/PS-PowerBase/Wettkampfanmeldung.powerbase/</loc>
 </url>
 <url>
-<loc>https://wettkampfanmeldung.powerbase.app/imprint/</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/pages/PS-PowerBase/Wettkampfanmeldung.powerbase/imprint/</loc>
 </url>
 </urlset>
