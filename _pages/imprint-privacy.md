@@ -16,7 +16,8 @@ Per Starke, Willi-Lauf Allee 43, D-50858 Köln
 #### Kontakt
 
 Telefon: +49 160 9326 8817 <br>
-e-Mail: <a href="{{ mailto:per@starke-team.de| absolute_url}}"><i class="fa fa-fw fa-envelope"></i>Email </a>
+e-Mail: <a href="xmxaxixlxtxo:xpxexrx@xsxtxaxrxkxex-xtxexaxmx.xdxex" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam geschützt)</a>
+
 <br>
 
 #### Verantwortlich nach § 6 Abs.2 MDStV
