@@ -21,8 +21,7 @@ echo "which performs incremental builds and listens for file changes."
 echo
 echo "${GREEN}(b)build ${RESET} build the required docker image."
 echo
-echo "${RED}(p)production ${RESET} produces the site with production configuration,"
-echo "into ./_site directory."
+echo "${RED}(p)production produces the site with production configuration, into ./_prod directory. Don't forget to copy to _site, commit and push afterwards! ${RESET} "
 echo
 echo "${GREEN}(r)emove ${RESET} the running docker container."
 echo

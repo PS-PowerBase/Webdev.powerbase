@@ -6,7 +6,7 @@ services:
   powerbase-jekyll:
     build: .
     image: powerbase-site:latest
-    command: jekyll build --destination _site --no-watch
+    command: jekyll build --destination _prod --no-watch
     volumes:
       - .:/srv/jekyll
       - $PWD/_config.yml:/srv/jekyll/_config.yml
