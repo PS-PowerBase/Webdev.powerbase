@@ -17,7 +17,6 @@ title_separator          : "-"
 name                     : "Per Starke"
 description              : "PowerBase Squat Maxout Anmeldung"
 url                      : "https://wettkampfanmeldung.powerbase.app" 
-#url                      : "https://main--magical-klepon-75756f.netlify.app" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PS-PowerBase/Wettkampfanmeldung.powerbase" # GitHub username/repo-name
 teaser                   :  # path of fallback teaser image, e.g. "/images/500x300.png"
