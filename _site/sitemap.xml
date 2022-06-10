@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/anmeldung-erfolg</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/anmeldung-erfolg</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/anmeldung-fail</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/anmeldung-fail</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/anmeldung</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/anmeldung</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/imprint/</loc>
+<loc>https://wettkampfanmeldung.powerbase.app/imprint/</loc>
 </url>
 </urlset>
