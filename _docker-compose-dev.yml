@@ -3,9 +3,9 @@
 version: '2'
 
 services:
-  arc42-de-jekyll:
+  powerbase-jekyll:
     build: .
-    image: arc42.de-site:latest
+    image: powerbase-site:latest
     command: jekyll serve --trace --host 0.0.0.0 --watch --incremental --config _config.yml
     environment:
       - JEKYLL_ENV=development

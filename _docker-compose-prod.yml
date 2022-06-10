@@ -1,0 +1,12 @@
+# docker-compose definition for generating a release-version.
+#
+version: '2'
+
+services:
+  powerbase-jekyll:
+    build: .
+    image: powerbase-site:latest
+    command: jekyll build --destination _site --no-watch
+    volumes:
+      - .:/srv/jekyll
+      - $PWD/_config.yml:/srv/jekyll/_config.yml
