@@ -1,1 +1,1 @@
-Sitemap: https://wettkampfanmeldung.powerbase.app/pages/PS-PowerBase/Wettkampfanmeldung.powerbase/sitemap.xml
+Sitemap: http://0.0.0.0:4000/sitemap.xml

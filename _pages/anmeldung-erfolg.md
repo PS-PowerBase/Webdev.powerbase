@@ -12,11 +12,12 @@ header:
 excerpt: "... das hat funktioniert"
 ---
 
-### Deine Anmeldung hat funktioniert, aber:
+### Wir haben deine Anmeldung erhalten! Aber:
 
 Wir bearbeiten Anmeldungen _von Hand_ - es könnte also etwas dauern...
 
-(durchaus auch bis zum nächsten oder übernächsten Werktag - bitte habt daher Geduld mit uns.)
+Wir melden uns in den nächsten Tagen per E-Mail und teilen dir mit, ob deine Anmeldung erfolgreich war. 
+Dann erhälst du auch weitere Infos bezüglich Startgebühr & Songwahl.
 
-Anmeldungen werden wir in der Reihenfolge ihres Eingangs bearbeiten - _first come, first serve_. 
+Schonmal DANKE für deine Anmeldung! :)
 
