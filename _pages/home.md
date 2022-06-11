@@ -10,7 +10,7 @@ excerpt: Der erste SQUAT ONLY Wettkampf!
 
 template_training_news:
   - title: "Bring the Action!"
-    excerpt: "Am 05.11.2022 rocken wir das RheinGym in Köln.<br>
+    excerpt: "Am Samstag, den 05.11.2022, rocken wir das RheinGym in Köln.<br>
 Egal welches Gewicht auf der Hantel liegt, ob du seit einer Woche oder 10 Jahren im Sport bist: Hier bekommst Du Hype, Action, Fokus, Atmosphäre, Musik, Unterstützung - kurz: Alles was du brauchst. Lasst uns den 05.11 zu einem unvergesslichen Tag machen! <br><br>
     Du kannst dir deinen **eigenen Song** wünschen, es gibt **fette Preise**, auch für unsere Newcomer, Goodie-Bags für **alle**, und für **Verpflegung vor Ort** wird gesorgt!"
     
