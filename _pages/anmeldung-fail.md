@@ -17,7 +17,7 @@ excerpt: "... es gab ein Problem..."
 Unsere Anmeldeseite benötigt JavaScript, und wie immer bei IT-Systemen 
 könnten auch noch x andere Dinge schieflaufen...
 
-Wir bitten das zu entschuldigen - aber schick' uns deine Anmeldung doch einfach per E-Mail:
+Wir bitten, das zu entschuldigen - aber schick' uns deine Anmeldung doch einfach per E-Mail:
 
 <a href='mailto:per@starke-team.de?subject=[PowerBase] Anmeldung'>
      <button class='button buttonAnmeldung'>Anmeldung<br>per E-Mail</button></a>
