@@ -53,7 +53,7 @@ excerpt: "am 15. November 2022 in Köln.<br>Wir freuen uns auf Dich!"
 <strong>Erwartetes One-Rep Max</strong> (grobe Schätzung reicht)
   <br>
 
-<input type="text" id="onerm" name="OneRM" placeholder="* OneRM" size="5" required  />
+<input type="text" id="onerm" name="OneRM" placeholder="* 1RM" size="5" required  />
  
 <br>
 <hr style="height:2px; width:100%; border-width:0; color:CadetBlue; background-color:CadetBlue">
