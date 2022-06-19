@@ -9,7 +9,7 @@ botpoison: nospam
 header:
   overlay_image: /images/anmeldung_header.png
 
-excerpt: "am 15. November 2022 in Köln.<br>Wir freuen uns auf Dich!"
+excerpt: "am 05. November 2022 in Köln.<br>Wir freuen uns auf Dich!"
 ---
 
 
