@@ -24,10 +24,8 @@ In den Erst- und Zweitversuchen sind wie gehabt 2,5kg Sprünge erlaubt, um den A
 
 
   - title: "Anmeldung"
-    excerpt: "Klicke auf den Button unten, um dich anzumelden! <br>
-    Die Anmeldung ist dieses Wochenende online, also von Freitag 17.06.22 um 00:00 bis Sonntag 19.06.22 um 23:59. <br><br>
-    Sollte es mehr Anmeldungen als Startplätze geben, spielt der Zeitpunkt der Anmeldung **keine** Rolle!<br><br>
-    <a href='anmeldung'><button class='button buttonAnmeldung'>Anmeldung</button></a>
+    excerpt: "
+    Die Anmeldung ist vorbei, ganz vielen Dank für alle eure Anmeldungen!
     "
   
 ---
