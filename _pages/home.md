@@ -26,6 +26,13 @@ In den Erst- und Zweitversuchen sind wie gehabt 2,5kg Sprünge erlaubt, um den A
   - title: "Anmeldung"
     excerpt: "
     Die Anmeldung ist vorbei, ganz vielen Dank für alle eure Anmeldungen!
+    <br> <br>
+    Solltest du deine Startgebühr bezahlt und dir damit deinen Startplatz gesichert haben, ist eine Rückzahlung nicht möglich
+    (da unsere Finanzplanung sonst kaputt gehen könnte). Wenn du nicht mehr starten kannst oder möchtest, 
+    kannst du allerdings jemanden suchen, der ersatzweise für dich antritt, und somit deinen Startplatz übernimmt! 
+    Gib uns dann bitte per [Mail](mailto:per@starke-team.de?subject=[PowerBase Squat Maxout]) 
+    oder [Instagram](https://www.instagram.com/powerbase_int/) Bescheid!
+    
     "
   
 ---
