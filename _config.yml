@@ -12,14 +12,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "de"
-title                    : "PowerBase Squat Maxout Anmeldung"
+title                    : "PowerBase Webpage Development"
 title_separator          : "-"
 name                     : "Per Starke"
-description              : "PowerBase Squat Maxout Anmeldung"
-#url                      : "https://wettkampfanmeldung.powerbase.app" 
-url                      : "https://anmeldung-squatmax.netlify.app" 
+description              : "PowerBase Webpage Development"
+#url                      : "https://webdev.powerbase.app"
+url                      : "https://powerbasewebdev.netlify.app"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "PS-PowerBase/Wettkampfanmeldung.powerbase" # GitHub username/repo-name
+repository               : "PS-PowerBase/webdev.powerbase" # GitHub username/repo-name
 teaser                   :  # path of fallback teaser image, e.g. "/images/500x300.png"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
