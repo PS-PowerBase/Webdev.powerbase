@@ -6,7 +6,7 @@ header:
     overlay_image: /images/anmeldung_header.png
 excerpt: Wir bauen dir deine Webseite! 
 ---
-### Für Coaches, Wettkampf-Veranstalter\*Innen, Athlet\*Innen, ...: <br> Du brauchts eine Webseite? We got you covered!
+### Für Coaches, Wettkampf-Veranstalter\*Innen, Athlet\*Innen, ...: <br> Du brauchst eine Webseite? We got you covered!
 
 Wenn du für dich oder dein Event eine Webseite brauchst, [schreib uns!](mailto:per@starke-team.de?subject=[PowerBase WebDev])  
 Simple Pages ohne fancy Schnickschnack, dafür in schlichtem, übersichtlichem Design, mit allen Infos drauf, die du dort haben möchtest.  
